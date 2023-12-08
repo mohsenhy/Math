@@ -8,6 +8,6 @@ In below table the list of all available codes is brought.
 
 | Item | File Name | Description | Link |
 |:---------|:--------:|---------:|---------:|
-| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 | Row 1, Col 3 |
-| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 | Row 1, Col 3 |
-| Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 | Row 1, Col 3 |
+| 1 | find_primes.ipynb | find list of all prime numbers not exeeding n | link |
+| 2 |  |  |  |
+| 3 |  |  |  |
