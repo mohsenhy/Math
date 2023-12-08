@@ -7,7 +7,7 @@ In below table the list of all available codes is brought.
 
 
 | Item | File Name | Description | Link |
-|:---------|:--------:|:---------:|:---------:|
+|:---------:|:--------:|:---------:|:---------:|
 | 1 | find_primes.ipynb | find list of all prime numbers not exeeding n.\n Different Algorithms are implemented. | link |
 | 2 |  |  |  |
 | 3 |  |  |  |
