@@ -10,8 +10,10 @@ Here I put the codes I write on some topics of mathematics.
 | 2 |  |Fermat's Little Theorem |  |
 | 3 |  |  |  |
 
-# Finding Prime Numbers
+## *Finding Prime Numbers*
 
+<blockquote>
+  
 Different methods can be used to identify prime numbers:
 
 1. **Trial Division**: Check if a number `n` is divisible by any integer from 2 to the square root of `n`. If not, `n` is prime.
@@ -22,6 +24,7 @@ Different methods can be used to identify prime numbers:
 
 Each method has its trade-offs between simplicity and efficiency, especially for large numbers.
 
+</blockquote>
 
 ## *Fermat's Little Theorem*
 
