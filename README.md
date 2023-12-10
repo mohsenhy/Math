@@ -29,6 +29,7 @@ Each method has its trade-offs between simplicity and efficiency, especially for
 ## *Fermat's Little Theorem*
 
 Fermat's Little Theorem states:
+<blockquote><blockquote>
 
 If `p` is a prime number, then for any integer `a` such that `a` is not divisible by `p`, the following equation holds true:  
 
@@ -38,4 +39,5 @@ $$
 
 This means that `a` raised to the power of `p-1`, when divided by `p`, leaves a remainder of 1.  
 The theorem essentially leverages the fact that when working modulo a prime number, the set of non-zero elements forms a mathematical structure known as a group under multiplication. In this group, every element except zero has a multiplicative inverse. Fermat's Little Theorem is a consequence of this group structure, stating that multiplying an element by itself p−1 times (where p is a prime) results in the multiplicative identity, which is 1 in modular arithmetic. The proof involves techniques from combinatorics and modular arithmetic, demonstrating that any number not divisible by a prime, when raised to one less than that prime, will always have a remainder of 1 when divided by that prime.
+</blockquote></blockquote>
 
