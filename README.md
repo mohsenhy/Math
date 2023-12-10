@@ -9,3 +9,12 @@ Here I put the codes I write on some topics of mathematics.
 | 1 | find_primes.ipynb | Find list of all prime numbers not exeeding "n". Different Algorithms are implemented. | [link to Code](https://github.com/mohsenhy/Math/blob/main/find_primes.ipynb) |
 | 2 |  |Fermat's Little Theorem |  |
 | 3 |  |  |  |
+
+
+# Fermat's Little Theorem
+
+Fermat's Little Theorem states:
+
+If `p` is a prime number, then for any integer `a` such that `a` is not divisible by `p`, the following equation holds true:
+
+
