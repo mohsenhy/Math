@@ -10,7 +10,7 @@ Here I put the codes I write on some topics of mathematics.
 | 2 |  |Fermat's Little Theorem |  |
 | 3 |  |  |  |
 
-## *Finding Prime Numbers*
+#### *Finding Prime Numbers*
 
 <blockquote>
   
@@ -26,7 +26,7 @@ Each method has its trade-offs between simplicity and efficiency, especially for
 
 </blockquote></blockquote>
 
-## *Fermat's Little Theorem*
+#### *Fermat's Little Theorem*
 <blockquote>
 Fermat's Little Theorem states:
 <blockquote>
