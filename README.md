@@ -15,7 +15,7 @@ Here I put the codes I write on some topics of mathematics.
 <blockquote>
   
 Different methods can be used to identify prime numbers:
-
+<blockquote>
 1. **Trial Division**: Check if a number `n` is divisible by any integer from 2 to the square root of `n`. If not, `n` is prime.
 
 2. **Sieve of Eratosthenes**: Efficiently finds all primes smaller than a given number `n` by marking multiples of each prime number starting from 2.
@@ -24,12 +24,12 @@ Different methods can be used to identify prime numbers:
 
 Each method has its trade-offs between simplicity and efficiency, especially for large numbers.
 
-</blockquote>
+</blockquote></blockquote>
 
 ## *Fermat's Little Theorem*
-
+<blockquote>
 Fermat's Little Theorem states:
-<blockquote><blockquote>
+<blockquote>
 
 If `p` is a prime number, then for any integer `a` such that `a` is not divisible by `p`, the following equation holds true:  
 
