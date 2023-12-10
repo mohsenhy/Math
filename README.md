@@ -11,7 +11,7 @@ Here I put the codes I write on some topics of mathematics.
 | 3 |  |  |  |
 
 
-# Fermat's Little Theorem
+## *Fermat's Little Theorem*
 
 Fermat's Little Theorem states:
 
