@@ -17,4 +17,7 @@ Fermat's Little Theorem states:
 
 If `p` is a prime number, then for any integer `a` such that `a` is not divisible by `p`, the following equation holds true:
 
+This means that `a` raised to the power of `p-1`, when divided by `p`, leaves a remainder of 1.
+
+
 
