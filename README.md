@@ -22,23 +22,5 @@ a^{p-1} \equiv 1 \pmod{p}
 $$  
 
 This means that `a` raised to the power of `p-1`, when divided by `p`, leaves a remainder of 1.  
-
-
-
-## Why Fermat's Little Theorem Holds True
-
-Fermat's Little Theorem is based on the properties of modular arithmetic with prime numbers. It utilizes the fact that the set of non-zero integers modulo a prime number forms a multiplication group. Each element in this group, except zero, has a multiplicative inverse. The theorem asserts that for any integer not divisible by a prime \( p \), when raised to \( p-1 \), it will result in a remainder of 1 when divided by \( p \). This outcome is rooted in the group structure and modular arithmetic behavior.
-
-
-      
-
-
-
-The theorem essentially leverages the fact that when working modulo a prime number, the set of non-zero elements forms a mathematical structure known as a group under multiplication. In this group, every element except zero has a multiplicative inverse. Fermat's Little Theorem is a consequence of this group structure, stating that multiplying an element by itself 
-�
-−
-1
-p−1 times (where 
-�
-p is a prime) results in the multiplicative identity, which is 1 in modular arithmetic. The proof involves techniques from combinatorics and modular arithmetic, demonstrating that any number not divisible by a prime, when raised to one less than that prime, will always have a remainder of 1 when divided by that prime.
+The theorem essentially leverages the fact that when working modulo a prime number, the set of non-zero elements forms a mathematical structure known as a group under multiplication. In this group, every element except zero has a multiplicative inverse. Fermat's Little Theorem is a consequence of this group structure, stating that multiplying an element by itself p−1 times (where p is a prime) results in the multiplicative identity, which is 1 in modular arithmetic. The proof involves techniques from combinatorics and modular arithmetic, demonstrating that any number not divisible by a prime, when raised to one less than that prime, will always have a remainder of 1 when divided by that prime.
 
