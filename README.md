@@ -8,7 +8,19 @@ Here I put the codes I write on some topics of mathematics.
 |:---------:|:--------:|:---------:|:---------:|
 | 1 | find_primes.ipynb | Find list of all prime numbers not exeeding "n". Different Algorithms are implemented. | [link to Code](https://github.com/mohsenhy/Math/blob/main/find_primes.ipynb) |
 | 2 |  |Fermat's Little Theorem |  |
-| 3 |  |  |  |
+| 3 |  | Summation in any base |  |
+| 4 |  | Subtraction in any base |  |
+| 5 |  | Multiplication in any base  |  |
+| 6 |  | Division in any base  |  |
+| 7 |  |  |  |
+| 8 |  |  |  |
+| 9 |  |  |  |
+| 10 |  |  |  |
+| 11 |  |  |  |
+| 12 |  |  |  |
+| 13 |  |  |  |
+| 14 |  |  |  |
+| 15 |  |  |  |
 
 ##### *Finding Prime Numbers*
 
