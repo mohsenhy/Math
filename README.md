@@ -4,7 +4,7 @@ Here I put the codes I write on some topics of mathematics.
 * In below table the list of all available codes is brought.
 
 
-| Item | Type    |            Name           |    File Name   | Description | Link |
+| Item | Type | Name | File Name | Description | Link |
 |:----:|:-------:|:-------------------------:|:--------------:|:---------:|
 | 1    | code    | find_primes.ipynb         | Find list of all prime numbers not exeeding "n". Different Algorithms are implemented. | [link to Code](https://github.com/mohsenhy/Math/blob/main/find_primes.ipynb) |
 | 2    | Theorem | Fermat's Little Theorem   |                |
