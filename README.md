@@ -7,7 +7,7 @@ Here I put the codes I write on some topics of mathematics.
 | Item |  Type   |                Name             | File Name | Description | Link |
 |:----:|:-------:|:-------------------------------:|:---------:|:-----------:|:----:|
 | 1    | code    | find_primes.ipynb               | Find list of all prime numbers not exeeding "n". Different Algorithms are implemented. | [link to Code](https://github.com/mohsenhy/Math/blob/main/find_primes.ipynb) |
-| 2    | Theorem | Fermat's Little Theorem         |                |
+| 2    | Theorem |  Fermat's Little Theorem        |                |
 | 3    | code    | Summation                       |                |Summation in any base |  |
 | 4    | code    | Subtraction                     |                |Subtraction in any base |  |
 | 5    | code    | Multiplication            |                |Multiplication in any base  |  |
