@@ -4,23 +4,23 @@ Here I put the codes I write on some topics of mathematics.
 * In below table the list of all available codes is brought.
 
 
-| Item | Type |File Name | Description | Link |
-|:---------:|:---------:|:--------:|:---------:|:---------:|
-| 1  | code    | find_primes.ipynb | Find list of all prime numbers not exeeding "n". Different Algorithms are implemented. | [link to Code](https://github.com/mohsenhy/Math/blob/main/find_primes.ipynb) |
-| 2  | Theorem |  |Fermat's Little Theorem |  |
-| 3  | code    | Summation  | Summation in any base |  |
-| 4  | code    | Subtraction | Subtraction in any base |  |
-| 5  | code    | Multiplication | Multiplication in any base  |  |
-| 6  | code    | Division | Division in any base  |  |
-| 7  | Theorem |  |  |  |
-| 8  |         |  |  |  |
-| 9  |         |  |  |  |
-| 10 |         |  |  |  |
-| 11 |         |  |  |  |
-| 12 |         |  |  |  |
-| 13 |         |  |  |  |
-| 14 |         |  |  |  |
-| 15 |         |  |  |  |
+| Item | Type    |            Name           |    File Name   | Description | Link |
+|:----:|:-------:|:-------------------------:|:--------------:|:---------:|
+| 1    | code    | find_primes.ipynb         | Find list of all prime numbers not exeeding "n". Different Algorithms are implemented. | [link to Code](https://github.com/mohsenhy/Math/blob/main/find_primes.ipynb) |
+| 2    | Theorem | Fermat's Little Theorem   |                |
+| 3    | code    | Summation                 |                |Summation in any base |  |
+| 4    | code    | Subtraction               |                |Subtraction in any base |  |
+| 5    | code    | Multiplication            |                |Multiplication in any base  |  |
+| 6    | code    | Division                  |                |Division in any base  |  |
+| 7    | Theorem | Recurrent Sequence        |                |  |
+| 8    |         |                           |                |  |
+| 9    |         |                           |                |  |
+| 10   |         |                           |                |  |
+| 11   |         |                           |                |  |
+| 12   |         |                           |                |  |
+| 13   |         |                           |                |  |
+| 14   |         |                           |                |  |
+| 15   |         |                           |                |  |
 
 ##### *Finding Prime Numbers*
 
@@ -55,10 +55,11 @@ The theorem essentially leverages the fact that when working modulo a prime numb
 
 ##### *Recurrent Sequence*
 <blockquote>
-Fermat's Little Theorem states:
+This theorem states:
 <blockquote>
 
-any recurrent sequence is periodic to any modulus.
+Any recurrent sequence is periodic to any modulus.
 
-</blockquote></blockquote>
+</blockquote>  
+</blockquote>
 
