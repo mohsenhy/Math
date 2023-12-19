@@ -4,23 +4,23 @@ Here I put the codes I write on some topics of mathematics.
 * In below table the list of all available codes is brought.
 
 
-| Item | File Name | Description | Link |
-|:---------:|:--------:|:---------:|:---------:|
-| 1 | find_primes.ipynb | Find list of all prime numbers not exeeding "n". Different Algorithms are implemented. | [link to Code](https://github.com/mohsenhy/Math/blob/main/find_primes.ipynb) |
-| 2 |  |Fermat's Little Theorem |  |
-| 3 | Summation  | Summation in any base |  |
-| 4 | Subtraction | Subtraction in any base |  |
-| 5 | Multiplication | Multiplication in any base  |  |
-| 6 | Division | Division in any base  |  |
-| 7 |  |  |  |
-| 8 |  |  |  |
-| 9 |  |  |  |
-| 10 |  |  |  |
-| 11 |  |  |  |
-| 12 |  |  |  |
-| 13 |  |  |  |
-| 14 |  |  |  |
-| 15 |  |  |  |
+| Item | Type |File Name | Description | Link |
+|:---------:|:---------:|:--------:|:---------:|:---------:|
+| 1  | code    | find_primes.ipynb | Find list of all prime numbers not exeeding "n". Different Algorithms are implemented. | [link to Code](https://github.com/mohsenhy/Math/blob/main/find_primes.ipynb) |
+| 2  | Theorem |  |Fermat's Little Theorem |  |
+| 3  | code    | Summation  | Summation in any base |  |
+| 4  | code    | Subtraction | Subtraction in any base |  |
+| 5  | code    | Multiplication | Multiplication in any base  |  |
+| 6  | code    | Division | Division in any base  |  |
+| 7  | Theorem |  |  |  |
+| 8  |         |  |  |  |
+| 9  |         |  |  |  |
+| 10 |         |  |  |  |
+| 11 |         |  |  |  |
+| 12 |         |  |  |  |
+| 13 |         |  |  |  |
+| 14 |         |  |  |  |
+| 15 |         |  |  |  |
 
 ##### *Finding Prime Numbers*
 
@@ -50,5 +50,15 @@ $$
 
 This means that `a` raised to the power of `p-1`, when divided by `p`, leaves a remainder of 1.  
 The theorem essentially leverages the fact that when working modulo a prime number, the set of non-zero elements forms a mathematical structure known as a group under multiplication. In this group, every element except zero has a multiplicative inverse. Fermat's Little Theorem is a consequence of this group structure, stating that multiplying an element by itself p−1 times (where p is a prime) results in the multiplicative identity, which is 1 in modular arithmetic. The proof involves techniques from combinatorics and modular arithmetic, demonstrating that any number not divisible by a prime, when raised to one less than that prime, will always have a remainder of 1 when divided by that prime.
+</blockquote></blockquote>
+
+
+##### *Recurrent Sequence*
+<blockquote>
+Fermat's Little Theorem states:
+<blockquote>
+
+any recurrent sequence is periodic to any modulus.
+
 </blockquote></blockquote>
 
